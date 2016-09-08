@@ -7,7 +7,7 @@ Here, I will try to post extensions that I've created and perhaps link to some n
 
 If you open a new tab and execute the following in the address bar, you can make the current HTML document editable:
 
-data:text/html,<textarea style='font-size: 1.5em; width: 100%; height: 100%; border: none; outline: none;' placeholder='Type here' autofocus />
+data:text/html,&lt;textarea style='font-size: 1.5em; width: 100%; height: 100%; border: none; outline: none;' placeholder='Type here' autofocus /&gt;
 
 It doesn't need to be <textarea> ... You can look it up online. Others have made additional features like syntax highlighting, etc. This is very simple taking basically default features.
 
