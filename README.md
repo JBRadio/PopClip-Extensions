@@ -9,7 +9,7 @@ If you open a new tab and execute the following in the address bar, you can make
 
 data:text/html,&lt;textarea style='font-size: 1.5em; width: 100%; height: 100%; border: none; outline: none;' placeholder='Type here' autofocus /&gt;
 
-It doesn't need to be <textarea> ... You can look it up online. Others have made additional features like syntax highlighting, etc. This is very simple taking basically default features.
+It doesn't need to be &lt;textarea&gt; ... You can look it up online. Others have made additional features like syntax highlighting, etc. This is very simple taking basically default features.
 
 Benefits:
 
