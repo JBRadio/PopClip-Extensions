@@ -31,6 +31,11 @@ Developers can enable them for testing purposes by toggling the "noscript.allowU
 
 I assure you, there are no attaacks here. See the above lines to see what gets posted to the address bar.
 
+
+### Chrome Developer mode / unpacked extensions
+
+When opening Google Chrome while you have unpacked extensions, Chrome will prompt you with a message box asking if you want to continue to use unpacked extensions. This interrupts the flow of the AppleScript with no harm to you. Continue using the popclip extension after choosing an option for this prompt.
+
 ##Credits:
 
 I am not the original person who found out this trick however the code is standard and should work in most, if not all, browsers. I first found it on Coderwall.com.
