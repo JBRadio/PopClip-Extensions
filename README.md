@@ -21,6 +21,16 @@ Others have made additional features like syntax highlighting, etc. This PopClip
 * Save extension/add-on bar space for more functional items.
 * Works with PopClip!
 
+## Known Issue(s)
+
+### Firefox & NoScript and/or blocking Data: in Address Bar
+This extension may not work properly in Firefox if "NoScript" is active and no user interaction has been performed. This is due to NoScript blocking Data URI execution. You will likely see this message:
+
+javascript: and data: URIs typed or pasted in the address bar are disabled to prevent social engineering attacks.
+Developers can enable them for testing purposes by toggling the "noscript.allowURLBarJS" preference.
+
+I assure you, there are no attaacks here. See the above lines to see what gets posted to the address bar.
+
 ##Credits:
 
 I am not the original person who found out this trick however the code is standard and should work in most, if not all, browsers. I first found it on Coderwall.com.
